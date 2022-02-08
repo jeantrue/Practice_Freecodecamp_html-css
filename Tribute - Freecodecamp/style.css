@@ -1,0 +1,23 @@
+body{
+    padding:0 20%;
+    background-color: #041C32;
+    color: #95F9E3;
+  }
+  .test {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  
+  #image {
+      display: block;
+  
+      max-width: 100%;
+  
+      margin-left: auto;
+  
+      margin-right: auto;
+  
+  }
+  
